@@ -1,2 +1,6 @@
 .vscode
 *.pt
+
+# git lfs install
+# git lfs track "*.pt"
+# cat .gitattributes
